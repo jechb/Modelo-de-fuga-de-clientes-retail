@@ -80,5 +80,4 @@ Dataset ficticio utilizado con fines académicos (Kaggle).
 ## Autor
 
 Jose Chamorro Barredo 
-Chile  
 Proyecto desarrollado en el contexto de Diplomado en Data Science.
